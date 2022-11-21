@@ -1,0 +1,21 @@
+/* Write your global styles here, in PostCSS syntax */
+
+body {
+    font-family: ui-sans-serif, system-ui;
+}
+
+@arrays here;
+
+
+#select-theme-0:checked ~ .themed {
+    background-color: red;
+}
+#select-theme-1:checked ~ .themed {
+    background-color: green;
+}
+#select-theme-2:checked ~ .themed {
+    background-color: blue;
+}
+#select-theme-3:checked ~ .themed {
+    background-color: pink;
+}

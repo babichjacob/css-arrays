@@ -1,0 +1,20 @@
+{
+  "name": "demo",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/kit": "next",
+    "d3-color": "^3.0.1",
+    "mathjs": "^10.0.0",
+    "mvp.css": "^1.8.0",
+    "postcss": "^8.3.9",
+    "postcss-load-config": "^3.1.0",
+    "svelte": "^3.42.6",
+    "svelte-preprocess": "^4.9.8"
+  },
+  "type": "module"
+}

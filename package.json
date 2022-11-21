@@ -1,0 +1,27 @@
+{
+	"name": "@babichjacob/css-arrays-workspace-root",
+	"private": true,
+	"version": "0.0.1",
+	"description": "Arrays in CSS",
+	"author": "J / Jacob Babich <jacobbabichpublic+git@gmail.com>",
+	"keywords": [
+		"css",
+		"arrays",
+		"polynomials"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/babichjacob/css-arrays.git"
+	},
+	"bugs": {
+		"url": "https://github.com/babichjacob/css-arrays/issues"
+	},
+	"homepage": "https://github.com/babichjacob/css-arrays",
+	"scripts": {
+		"check": "tsc --project jsconfig.json"
+	},
+	"devDependencies": {
+		"typescript": "^4.4.4"
+	}
+}
